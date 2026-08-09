@@ -1,4 +1,4 @@
-# 🍫 Nova Chocolatier — Sales Performance Dashboard
+# 🍫  Chocolate — Sales Performance Dashboard
 
 An interactive Power BI dashboard analyzing sales, shipment, and sales team performance for Nova Chocolatier, an artisanal Belgian chocolate brand, across 6 countries and 2 fiscal years.
 
@@ -42,9 +42,7 @@ Individual sales rep rankings by total amount, boxes sold, and monthly trends.
 - Power Query
 - DAX (calculated measures for amount per box, amount per shipment, and averages per sales person)
 
-## 📎 File
 
-`Nova_Chocolatier_Sales_Dashboard.pbix`
 
 ---
 
